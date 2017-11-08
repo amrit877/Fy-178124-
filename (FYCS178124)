@@ -1,2 +1,5 @@
-Hello!!!! MAM....
-GITHUB!!!!!!
+#include<stdio.h>
+void main()
+{
+ printf("HELLO_____WORLD");
+}
